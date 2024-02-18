@@ -1,7 +1,9 @@
 Update
-The latest version is 1.1.8.
+The latest version is 1.1.8
 
 New year new me! Say hi to the Message of the Day Board!
-Fixed the owner colliding with his badge
-
-Happy gaming!
+- Fixed the owner colliding with his badge
+- Added reporting system
+- Added color and name system
+- Deleted FreshScary
+- Added banning system
