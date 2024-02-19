@@ -1,7 +1,7 @@
-Update
+Hotfix
 The latest version is 1.2.0
 
-New year new me! Say hi to the Message of the Day Board!
+Buggy Update! Here's a list of bugs fixed:
 - Fixed badge stuff
 - PlayFab now syncs names
 - Fixed issues with loading the game
