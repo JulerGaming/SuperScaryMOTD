@@ -1,7 +1,5 @@
 Hotfix
-The latest version is 1.2.0
+The latest version is 1.2.1
 
-Buggy Update! Here's a list of bugs fixed:
-- Fixed badge stuff
-- PlayFab now syncs names
-- Fixed issues with loading the game
+Buggy Update 2! Here's a list of bugs fixed:
+- REALLY fixed owner badge
