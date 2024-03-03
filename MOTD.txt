@@ -1,5 +1,11 @@
 Hotfix
-The latest version is 1.2.1
+The latest version is 1.2.2
 
-Buggy Update 2! Here's a list of bugs fixed:
-- REALLY fixed owner badge
+Lighting Update! Several issues fixed and stuff added:
+- Baked lighting
+- Kick hammer if LeaderboardKick isn't working
+- Removed fog
+- Ban scene*
+- Cool badge if you boost the discord
+
+*There are baked figures in the ban scene because of Photon.
