@@ -1,11 +1,11 @@
-Hotfix
-The latest version is 1.2.2
+Update
+The latest version is 1.2.3
 
-Lighting Update! Several issues fixed and stuff added:
-- Baked lighting
-- Kick hammer if LeaderboardKick isn't working
-- Removed fog
-- Ban scene*
-- Cool badge if you boost the discord
+Major Update! Here's whats added:
 
-*There are baked figures in the ban scene because of Photon.
+- Fixed "Floor glue" locomotion issue
+- Added a Player Model
+- Music!
+- Sounds of the monster when it's coming at you
+
+When you hear some roaring, RUN!
