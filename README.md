@@ -1,0 +1,3 @@
+# Super Scary MOTD
+
+motd:)
