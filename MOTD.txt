@@ -1,11 +1,9 @@
 Update
-The latest version is 1.2.3
+The latest version is 1.2.6
 
-Major Update! Here's whats added:
-
-- Fixed "Floor glue" locomotion issue
-- Added a Player Model
-- Music!
-- Sounds of the monster when it's coming at you
+Waffle Update! Changes:
+- Finally fixed "running" issue
+- Waffle's stick is here
+- Banning fixed
 
 When you hear some roaring, RUN!
