@@ -1,9 +1,6 @@
 Update
 The latest version is 1.2.6
 
-Waffle Update! Changes:
-- Finally fixed "running" issue
-- Waffle's stick is here
-- Banning fixed
+We're back!
 
 When you hear some roaring, RUN!
